@@ -24,7 +24,7 @@ $page_blerb = "These are the mechanic's used in writing the story, not generally
             </figure>
         </div>
 
-      <div class="col s12 l6 blerb"><p>The world building and background info need for the write of the series and help with discrepancy of all parties involves</p>
+      <div class="col s12 l6 blerb"><p>The world building and background info need for the write of the series and help with discrepancy of all parties involves. Being a single source of referance.</p>
       <p>This is a work of fiction. Names, characters, businesses, places, events and incidents are either the products of the author’s imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.</p></div></div>
         
 </main>
