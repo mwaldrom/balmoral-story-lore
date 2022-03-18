@@ -133,9 +133,15 @@ $page_blerb = ""; //from
     </section>
     <section class="col s12">
         <ul>
-            <li class="list">Ebera is a continent entirely within the Northern and Western Hemispheres.
+            <li class="list">Ebera is a continent entirely within the Southern and Eastern Hemispheres.
                 <ul>
-            <li class="list-2">It is bordered to the east by ustren ocean and the west by cespana ocean and the two oceans meet at the northern tip of Ebera but do not meet in the south due to land seperating them.</li>
+            <li class="list-2">It is bordered to:
+                <ul>
+                    <li class="list-3">The West by Sanguine Ocean.</li>
+                    <li class="list-3">The East by Cespana Ocean.</li>
+                    <li class="list-3">The South by Zespaibar Ocean.</li>
+                </ul>
+            </li>
                 </ul>
             </li>
         </ul>
