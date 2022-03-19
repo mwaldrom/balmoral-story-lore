@@ -65,9 +65,9 @@ $page_blerb = "Levels of Editing";
             <div class="col s12">
             <div class="card yellow">
                 <div class="card-content black-text">
-                <span class="card-title">Daft</span>
-                <p class="list cyan red-text">Rought Draft
+                <span class="card-title">Draft</span>
                     <ul class="cyan">
+                        <li class="list red-text">Rough Draft</li>
                         <li class="list">Conceptual Edit: What, When, Where, Why, Who, How.
                         <ul>
                         <li class="list purple-text">Checked by Mikayla</li>
@@ -96,9 +96,8 @@ $page_blerb = "Levels of Editing";
                     </ul>
                         </li>
                     </ul>
-                </p>
-                <p class="list indigo white-text">Final Draft
-                    <ul>
+                    <ul class="indigo">
+                        <li class="list white-text">Final Draft or Live Document</li>
                         <li class="list purple-text">Checked by Mikayla</li>
                         <li class="list pink-text">Checked by Rachael</li>
                     </ul>
@@ -111,7 +110,7 @@ $page_blerb = "Levels of Editing";
             <div class="col s12">
             <div class="card grey">
                 <div class="card-content black-text">
-                <span class="card-title">Manuscript</span>
+                <span class="card-title">Web Ready</span>
                 <p class="list">
                     <ul>
                         <li class="list">Rough</li>

@@ -43,12 +43,12 @@
 
                     <!-- Dropdown Structure -->
                     <ul id="dropdown2" class="dropdown-content">
-                      <li><a href="#!">Our State</a></li>
-                      <li><a href="#!">Our Region</a></li>
-                      <li><a href="#!">Balmoral Island</a></li>
-                      <li class="divider"></li>
-                      <li><a href="#!">Angelwood Township</a></li>
-                      <li><a href="#!">Fort Royal</a></li>
+                      <li><a href="/geography/our-world.php">Our World</a></li>
+                      <li><a href="/geography/continent/ebera.php">Our Continent</a></li>
+                      <li><a href="/geography/country/eshian.php">Our Country</a></li>
+                      <li><a href="/geography/our-state.php">Our State</a></li>
+                      <li><a href="/geography/our-region.php">Our Region</a></li>
+                      <li><a href="/geography/our-island.php">Our Island</a></li>
                     </ul>
 
                         <!-- Dropdown Structure -->
@@ -155,7 +155,7 @@
                 echo $long_title;
                 ?>
               </h1>
-              <h5 class="center-align ">                
+              <h5 class="center-align blerb">                
                 <?php
                 echo $page_blerb;
                 ?>

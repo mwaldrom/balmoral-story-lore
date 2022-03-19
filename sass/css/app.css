@@ -2,21 +2,41 @@ body{
     background-color: #eceff1;
 }
 
-h5{
+.blerb{
     padding-bottom: 1em !important;
+    font-size: 30px;
 }
 
 table{
     background-color: #d7ccc8;
+    margin-bottom: 1em;
 }
 
 strong{
     font-weight: 900;
 }
 
+figcaption {
+    text-align: center;
+}
+
+.card-title{
+    text-align: center;
+}
+
 .list{
     list-style-type: square !important;
-    margin-left: 4em;
+    margin-left: 2em;
+    padding-left: 2em;
+}
+.list-2{
+    list-style-type: circle !important;
+    margin-left: 2em;
+    padding-left: 2em;
+}
+.list-3{
+    list-style-type: disc !important;
+    margin-left: 2em;
     padding-left: 2em;
 }
 .ecc{
@@ -40,12 +60,12 @@ strong{
     color: #f44336;
 }
 
-.breadcrumb-container, footer{
+.breadcrumb-container{
     width: 100%;
     background-color: #f8f8f8;
     border-bottom-color: 1px solid #f4f4f4;
     list-style: none;
-    margin-top: 2px;
+    margin: 4px 0px 4px 0px;
     min-height: 25px;
     box-shadow: 0 3px 0 rgba(60, 57, 57, .2)
 }

@@ -10,13 +10,12 @@ $page_blerb = "A broad discipline covering scientific, religious or philosophica
     <?php include '../head.php';?>
 </head>
 <body>
-<section id="header">
+<header>
 <!-- generic header info in php include file -->
     <?php include '../header.php';?>
-</section>
-<section id="main">
-    <div class="container">
-              <div class="row">
+</header>
+<main class="container">
+          <article class="row">
                 <div class="col s12 m3"><div class="card blue-grey darken-1">
                   <div class="card-content white-text">
                     <span class="card-title">Realms of Existence</span>
@@ -43,7 +42,7 @@ $page_blerb = "A broad discipline covering scientific, religious or philosophica
                     <p>The Solar System is the gravitational bound system of the Sun and the objects that orbit it, either directly or indirectly.</p>
                   </div>
                   <div class="card-action">
-                    <a href="solar-system.php" class="waves-effect waves-light btn"><i class="material-icons left">brightness_1</i>see more</a>
+                    <a href="solar-system/index.php" class="waves-effect waves-light btn"><i class="material-icons left">brightness_1</i>see more</a>
                   </div>
                 </div>
               </div>
@@ -53,15 +52,15 @@ $page_blerb = "A broad discipline covering scientific, religious or philosophica
                   <p>Uthea is the third planet from the Sun @ about one astronomical unit or (150,000,000 km) and the only astronomical object known to harbour and support living life.</p>
                 </div>
                 <div class="card-action">
-                  <a href="earth.php" class="waves-effect waves-light btn"><i class="material-icons left">brightness_1</i>see more</a>
+                  <a href="solar-system/earth.php" class="waves-effect waves-light btn"><i class="material-icons left">brightness_1</i>see more</a>
                 </div>
               </div>
             </div>
-            </div>
-  </section>
-<section id="footer">
+          </article>
+</main>
+<footer>
 <!-- generic footer info in php include file -->
     <?php include '../footer.php';?>
-</section>
+</footer>
 </body>
 </html>

@@ -12,7 +12,7 @@
                   <ul class="grey-text text-darken-1">
                     <li>Authored by Mikayla Waldrom</li>
                     <li>Edited by Rachael Waldrom</li>
-                    <li><a class="grey-text text-darken-1" href="https://www.godaddy.com">Hosted by Godaddy</a></li>
+                    <li><a class="grey-text text-darken-1" href="https://aws.amazon.com/free/compute/lightsail/">Hosted by Amazon Lightsail</a></li>
                     <li><a class="grey-text text-darken-1" href="https://materializecss.com/">Design with Materialize <abbr>CSS</abbr></a></li>
                   </ul>
               </p>
@@ -34,9 +34,7 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
-            <a class="grey-text text-darken-1" rel="license" href="http://creativecommons.org/licenses/by/3.0/nz/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/3.0/nz/88x31.png">
-                  This work is licensed under a Creative Commons Attribution 3.0 New
-                  Zealand License.</a>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
             </div>
           </div>
         </footer>

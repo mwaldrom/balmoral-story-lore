@@ -15,7 +15,7 @@ $page_blerb = "Geography is an all-encompassing discipline that seeks an underst
     <?php include '../header.php';?>
 </section>
 <section id="main">
-    <div class="container">
+  <div class="container">
               <div class="row">
                 <div class="col s12 m4"><div class="card blue-grey darken-1">
                   <div class="card-content white-text">
@@ -23,39 +23,39 @@ $page_blerb = "Geography is an all-encompassing discipline that seeks an underst
                     <p></p>
                   </div>
                   <div class="card-action">
-                    <a href="#" class="waves-effect waves-light btn"><i class="material-icons left">bubble_chart</i>see more</a>
+                    <a href="our-world.php" class="waves-effect waves-light btn"><i class="material-icons left">bubble_chart</i>see more</a>
                   </div>
                 </div>
               </div>
                 <div class="col s12 m4"><div class="card blue-grey darken-1">
                   <div class="card-content white-text">
-                    <span class="card-title">The Continent</span>
+                    <span class="card-title">Continent's</span>
                     <p></p>
                   </div>
                   <div class="card-action">
-                    <a href="#" class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>see more</a>
+                    <a href="continent/index.php" class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>see more</a>
                   </div>
                 </div>
               </div>
                 <div class="col s12 m4"><div class="card blue-grey darken-1">
                   <div class="card-content white-text">
-                    <span class="card-title">Our Country</span>
+                    <span class="card-title">Countries</span>
                     <p></p>
                   </div>
                   <div class="card-action">
-                    <a href="#" class="waves-effect waves-light btn"><i class="material-icons left">brightness_1</i>see more</a>
+                    <a href="country/index.php" class="waves-effect waves-light btn"><i class="material-icons left">brightness_1</i>see more</a>
                   </div>
                 </div>
               </div>
             </div>
-              <div class="row">
+            <div class="row">
               <div class="col s12 m4"><div class="card blue-grey darken-1">
                 <div class="card-content white-text">
                   <span class="card-title">Our State</span>
                   <p></p>
                 </div>
                 <div class="card-action">
-                  <a href="#" class="waves-effect waves-light btn"><i class="material-icons left">brightness_1</i>see more</a>
+                  <a href="our-state.php" class="waves-effect waves-light btn"><i class="material-icons left">brightness_1</i>see more</a>
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@ $page_blerb = "Geography is an all-encompassing discipline that seeks an underst
                     <p></p>
                   </div>
                   <div class="card-action">
-                    <a href="#" class="waves-effect waves-light btn"><i class="material-icons left">bubble_chart</i>see more</a>
+                    <a href="our-region.php" class="waves-effect waves-light btn"><i class="material-icons left">bubble_chart</i>see more</a>
                   </div>
                 </div>
               </div>
@@ -75,8 +75,30 @@ $page_blerb = "Geography is an all-encompassing discipline that seeks an underst
                     <p></p>
                   </div>
                   <div class="card-action">
-                    <a href="#" class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>see more</a>
+                    <a href="our-island.php" class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>see more</a>
                   </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col s12 m6"><div class="card blue-grey darken-1">
+                  <div class="card-content white-text">
+                    <span class="card-title">Angelwood Township</span>
+                    <p></p>
+                  </div>
+                  <div class="card-action">
+                    <a href="our-island.php" class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>see more</a>
+                  </div>
+                </div>
+                </div>
+                <div class="col s12 m6"><div class="card blue-grey darken-1">
+                  <div class="card-content white-text">
+                    <span class="card-title">Balmoral Estate</span>
+                    <p></p>
+                  </div>
+                  <div class="card-action">
+                    <a href="our-island.php" class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>see more</a>
+                  </div>
+                </div>
                 </div>
               </div>
             </div>
