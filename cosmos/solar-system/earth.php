@@ -33,17 +33,6 @@ $page_blerb = ""; //from
                 </li>
                 <li class="list">The surface alltogether rests on several rigid tectonic plates[list] of Earth's crust, which migrate over many millions of years and are driven by a convective mantle around a solid iron inner core and a liquid outer core, which generates Earth's magnetic field, deflecting destructive solar winds and generating polar lights.</li>
                 <li class="list">Earth has an atmosphere, consisting mostly of inert nitrogen, partially of reactive oxygen and in small amounts of other elements and water vapor, allowing widespread formation and systems of water clouds.</li>
-                <li class="list"><h3>Planet Spec's
-                    </h3>
-                    <ul>
-                        <li class="list-2">Equatorial Radius: 11,500 km</li>
-                        <li class="list-2">Polar Radius: 7,500 km</li>
-                        <li class="list-2">Flatten: 345,000,000 km<sup>2</sup></li>
-                        <li class="list-2">Circumference: 75,398 km</li>
-                        <li class="list-2">Surface Area: 1,809,557,368 km<sup>2</sup></li>
-                        <li class="list-2">Volume: 7.24x10<sup>12</sup> km<sup>3</sup></li>
-                    </ul>
-                </li>
             </ul>
         </aside>
         <section class="col s12">

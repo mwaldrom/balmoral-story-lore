@@ -21,16 +21,6 @@ $page_blerb = ""; //from
                 <img class="responsive-img" src="/img/WorldMap-PhysicalTopographic.svg">
                 <figcaption>This file is a edited version of a license image off Adobe Stock's</figcaption>
             </figure>
-            <ul class="pagination">
-                <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
-                <li class="active"><a href="#!">1</a></li>
-                <li class="waves-effect"><a href="#!">2</a></li>
-                <li class="waves-effect"><a href="#!">3</a></li>
-                <li class="waves-effect"><a href="#!">4</a></li>
-                <li class="waves-effect"><a href="#!">5</a></li>
-                <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
-            </ul>
-        </section>
         <section class="row">
                 <div class="col s12 m4">
                 <div class="card blue-grey darken-1">
@@ -100,6 +90,7 @@ $page_blerb = ""; //from
                     </div>
                 </div>
                 </div>
+        </section>
         </section>
         <aside class="col s12 l4">
             <h3>Uthea Specs:</h3>   
@@ -176,6 +167,14 @@ $page_blerb = ""; //from
                 <li class="list">Unemployment rate: 11% (Round-up 2x Reallife)</li>
             </ul>
         </aside>
+        <ul class="pagination center-align">
+                <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+                <li class="active"><a href="our-world.php">Basic's</a></li>
+                <li class="waves-effect"><a href="our-world-2.php">Tectolic's</a></li>
+                <li class="waves-effect"><a href="our-world-3.php">Weather</a></li>
+                <li class="waves-effect"><a href="our-world-4.php">Plants & Animals</a></li>
+                <li class="waves-effect"><a href="our-world-2.php"><i class="material-icons">chevron_right</i></a></li>
+        </ul>
 </article>
 </main>
 <footer>
