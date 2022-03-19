@@ -21,7 +21,17 @@ $page_blerb = ""; //from
                 <img class="responsive-img" src="/img/WorldMap-PhysicalTopographic.svg">
                 <figcaption>This file is a edited version of a license image off Adobe Stock's</figcaption>
             </figure>
-            <div class="row">
+            <ul class="pagination">
+                <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+                <li class="active"><a href="#!">1</a></li>
+                <li class="waves-effect"><a href="#!">2</a></li>
+                <li class="waves-effect"><a href="#!">3</a></li>
+                <li class="waves-effect"><a href="#!">4</a></li>
+                <li class="waves-effect"><a href="#!">5</a></li>
+                <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+            </ul>
+        </section>
+        <section class="row">
                 <div class="col s12 m4">
                 <div class="card blue-grey darken-1">
                     <div class="card-content white-text">
@@ -90,15 +100,14 @@ $page_blerb = ""; //from
                     </div>
                 </div>
                 </div>
-            </div>
         </section>
         <aside class="col s12 l4">
             <h3>Uthea Specs:</h3>   
             <ul>
-                <li class="list">Dimension at the equator is 23,000km and pole is 15,000km.
+                <li class="list">Dimension at the equator is 230,000km and pole is 150,000km.
                     <ul>
-                        <li class="list-2">Sqaure is Thousand of km's</li>
-                        <li class="list-2">2x & 1.25x Real-Life.</li>
+                        <li class="list-2">Sqaure is ten thousand of km's</li>
+                        <li class="list-2">18x & 12x Real-Life.</li>
                     </ul>
                 </li>
 	            <li class="list">Uthea revolves around the Sun in 600 days, a period known as an Uthea year.
@@ -125,11 +134,11 @@ $page_blerb = ""; //from
                         <li class="list-2">1.5x Real-Life.</li>
                     </ul>
                 </li>
-                <li class="list">Uthea Population of about 16 Billion humans with growth of four Hundred Million humans per year.
+                <li class="list">Uthea Population of about 40 billion humans with growth of one billion humans per year.
                     <ul>
-                        <li class="list-2">46.4 person per km<sup>2</sup> in Density.
+                        <li class="list-2">1.15 person per km<sup>2</sup> in Density.
                             <ul>
-                                <li class="list-3">(2x Reallife)</li>
+                                <li class="list-3">(Roundup 5x Reallife)</li>
                             </ul>
                         </li>
                         <li class="list-2">2.5% of pop in growth. (2x Reallife)</li>
@@ -160,8 +169,10 @@ $page_blerb = ""; //from
                 <li class="list">Age of consent: 20 years of age. (.25x Reallife)</li>
                 <li class="list">Senior Citizen is 70 or greater years. (-20 off LE)</li>
                 <li class="list">Planet Life Expectancy is average: 90. (.25x Reallife)</li>
-                <li class="list">World GDP: 169.42 Trillion Dollars. (2x Reallife)</li>
-                <li class="list">World Debt: 452 Trillion Dollars. (2x Reallife)</li>
+                <li class="list">World GDP: 423.55 Trillion Dollars. (5x Reallife)</li>
+                <li class="list">World GDP PP: 10.588 Thousand Dollars. (5x Reallife)</li>
+                <li class="list">World Debt: 1.130 Quadrillion Dollars. (5x Reallife)</li>
+                <li class="list">World Debt PP: 28.250 Thousand Dollars. (5x Reallife)</li>
                 <li class="list">Unemployment rate: 11% (Round-up 2x Reallife)</li>
             </ul>
         </aside>
