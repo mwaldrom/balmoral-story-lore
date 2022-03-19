@@ -24,15 +24,14 @@ $page_blerb = ""; //from
         <aside class="col s12 l4">
             <h3>Ebera Specs:</h3> 
             <ul>
-                <li class="list">Dimension at the equator is 10,000km and pole is 8,000km.
+                <li class="list">Dimension at the equator is 100,000km and pole is 80,000km.
                     <ul>
                         <li class="list-2">Grid Scale:
                             <ul>
-                                <li class="list-3">East / West is 625 km's</li>
-                                <li class="list-3">North / South is 391 km's</li>
+                                <li class="list-3">East / West is 4347.80 km's</li>
+                                <li class="list-3">North / South is 5000 km's</li>
                             </ul>
                         </li>
-                        <li Class="list-2">Area: 80,000,000 km's or 23.2% of earth total area.</li>
                     </ul>
                 </li>
                 

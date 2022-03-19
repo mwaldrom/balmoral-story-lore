@@ -23,8 +23,41 @@ $page_blerb = ""; //from
             </figure>
         </section>
         <aside class="col s12 l6">
+        <h3>Eshian Specs:</h3> 
             <ul>
+                <li class="list">Dimension at the equator is 10,000km and pole is 20,000km.
+                    <ul>
+                        <li class="list-2">Grid Scale:
+                            <ul>
+                                <li class="list-3">East / West is 625 km's</li>
+                                <li class="list-3">North / South is 869.5 km's</li>
+                            </ul>
+                        </li>
+                        <li Class="list-2">Area: 80,000,000 km's or 23.2% of earth total area.</li>
+                    </ul>
+                </li>
                 
+                <li class="list">Ebera Population of about 4 Billion humans with growth of 50 million humans per year.
+                    <ul>
+                        <li class="list-2">50 person per km<sup>2</sup> in Density.
+                            <ul>
+                                <li class="list-3">25% of world Pop</li>
+                            </ul>
+                        </li>
+                        <li class="list-2">1.25% of pop in growth. (2x Reallife)</li>
+                    </ul>
+                </li>
+                <li class="list">GDP: 42.35 Trilion Dollars (25% of world GDP)</li>
+                <li class="list">GDP per Capita: 35.89 Thousand Dollars</li>
+                <li class="list">World Debt: 113 Trillion Dollars. (25% of World Debt)</li>
+                <li class="list">Continent is on average:
+                    <ul>
+                        <li class="list-2">First World</li>
+                        <li class="list-2">Mid to Lower Class</li>
+                    </ul>
+                </li>
+                
+                <li class="list">Unemployment rate: 8% (Round-up 2x Reallife)</li>
             </ul>
         </aside>
         The Azores (/əˈzɔːrz/ ə-ZORZ, US also /ˈeɪzɔːrz/ AY-zorz;[3][4][5][6] Portuguese: Açores Portuguese pronunciation: [ɐˈsoɾɨʃ]), officially the Autonomous Region of the Azores (Região Autónoma dos Açores), is one of the two autonomous regions of Portugal (along with Madeira). It is an archipelago composed of nine volcanic islands in the Macaronesia region of the North Atlantic Ocean, about 1,400 km (870 mi) west of Lisbon, about 1,500 km (930 mi) northwest of Morocco, and about 1,930 km (1,200 mi) southeast of Newfoundland, Canada.
