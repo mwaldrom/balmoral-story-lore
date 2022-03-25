@@ -35,9 +35,9 @@ $page_blerb = ""; //from
                     </ul>
                 </li>
                 
-                <li class="list">Ebera Population of about 4 Billion humans with growth of 50 million humans per year.
+                <li class="list">Ebera Population of about 10 Billion humans with growth of 125 million humans per year.
                     <ul>
-                        <li class="list-2">50 person per km<sup>2</sup> in Density.
+                        <li class="list-2"> .8 person per km<sup>2</sup> in Density.
                             <ul>
                                 <li class="list-3">25% of world Pop</li>
                             </ul>
@@ -45,9 +45,9 @@ $page_blerb = ""; //from
                         <li class="list-2">1.25% of pop in growth. (2x Reallife)</li>
                     </ul>
                 </li>
-                <li class="list">GDP: 42.35 Trilion Dollars (25% of world GDP)</li>
-                <li class="list">GDP per Capita: 35.89 Thousand Dollars</li>
-                <li class="list">World Debt: 113 Trillion Dollars. (25% of World Debt)</li>
+                <li class="list">GDP: 105.88 Trilion Dollars (25% of world GDP)</li>
+                <li class="list">GDP per Capita: 10.58 Thousand Dollars</li>
+                <li class="list">World Debt: 282.5 Trillion Dollars. (25% of World Debt)</li>
                 <li class="list">Continent is on average:
                     <ul>
                         <li class="list-2">First World</li>
@@ -145,13 +145,13 @@ $page_blerb = ""; //from
             </li>
         </ul>
 
-        <p>Ebera’s is mostly on its own plate which is called Stroclan Plate and it connects with the divergent Boundary of Ekall and Geyox plates in the east, also meet the convergent plates of Wiyos, Unith, Pragath on the the south end of the plate. also on the west it meets another two convergent plates of Anone, Crezox in the west. Because it is on the Ebera Tectonic Plate, Plueland is included as part of Ebera geographically.</p> 
+        <p>Ebera’s is completely on its own plate, which is called Unith. With connects with the divergent boundary of Cojuts and Krulus plates in the west, also meet the convergent boundary of Ekall, Glesux and Anone on the the south end of the plate. also on the east it meets another two Transform boundary of Amora, Utias in the west. Because it is on the Unith Tectonic Plate, Plueland is included as part of Ebera geographically.</p> 
 
         <ul>    
             <li class="list">The Contenent has a tendancy to get:
                 <ul>
-                    <li class="list-2">Tornados and Hurricanes from the easten coastline thought to the middle.</li>
-                    <li class="list-2">Likely to shake by Earthquakes in the Western side of the main landmass and Western side of eshian.</li>
+                    <li class="list-2">Tornados and Hurricanes from the western coastline thought to the middle.</li>
+                    <li class="list-2">Likely to shake by Earthquakes on the Western and Eastern side of the Contenent.</li>
                 </ul>
             </li>
         </ul>
