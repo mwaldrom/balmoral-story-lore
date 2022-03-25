@@ -1,6 +1,6 @@
 <?php
 $title = "BFA Earth";
-$long_title = "Balmoral Family Adventure's Earth";
+$long_title = "Balmoral Family Adventure's Earth Basic";
 $page_blerb = ""; //from 
 ?>
 <!doctype html>
@@ -170,10 +170,10 @@ $page_blerb = ""; //from
         <ul class="pagination center-align">
                 <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
                 <li class="active"><a href="our-world.php">Basic's</a></li>
-                <li class="waves-effect"><a href="our-world-2.php">Tectolic's</a></li>
-                <li class="waves-effect"><a href="our-world-3.php">Weather</a></li>
-                <li class="waves-effect"><a href="our-world-4.php">Plants & Animals</a></li>
-                <li class="waves-effect"><a href="our-world-2.php"><i class="material-icons">chevron_right</i></a></li>
+                <li class="waves-effect"><a href="#!">Tectolic's</a></li>
+                <li class="waves-effect"><a href="#!">Weather</a></li>
+                <li class="waves-effect"><a href="#!">Plants & Animals</a></li>
+                <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
         </ul>
 </article>
 </main>
