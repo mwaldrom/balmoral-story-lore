@@ -25,21 +25,20 @@ $page_blerb = ""; //from
         <aside class="col s12 l4">
             <h3>Eotopin Specs:</h3> 
             <ul>
-                <li class="list">Dimension at the equator is 14,000km and pole is 10,000km.
+                <li class="list">Dimension at the equator is 140,000km and pole is 100,000km.
                     <ul>
                         <li class="list-2">Grid Scale:
                             <ul>
-                                <li class="list-3">East / West is 608 km's</li>
-                                <li class="list-3">North / South is 625 km's</li>
+                                <li class="list-3">East / West is 6080 km's</li>
+                                <li class="list-3">North / South is 6250 km's</li>
                             </ul>
                         </li>
-                        <li Class="list-2">Area: 140,000,000 km's or 40.6% of earth total area.</li>
                     </ul>
                 </li>
                 
-                <li class="list">Ebera Population of about 8 Billion humans with growth of 48 Million humans per year.
+                <li class="list">Ebera Population of about 20 Billion humans with growth of  Million humans per year.
                     <ul>
-                        <li class="list-2"> 57.1 person per km<sup>2</sup> in Density.
+                        <li class="list-2">  person per km<sup>2</sup> in Density.
                             <ul>
                                 <li class="list-3">50% of world Pop</li>
                             </ul>
@@ -47,9 +46,8 @@ $page_blerb = ""; //from
                         <li class="list-2">0.6% of pop in growth. (2x Reallife)</li>
                     </ul>
                 </li>
-                <li class="list">GDP: 84.71 Trilion Dollars (50% of world GDP)</li>
-                <li class="list">GDP per Capita:  Thousand Dollars</li>
-                <li class="list">World Debt: 226 Trillion Dollars. (50% of world debt)</li>
+                <li class="list">GDP: 84.71er Capita:  Thousand Dollars</li>
+                <li class="list">World Debt:  Trillion Dollars. (50% of world debt)</li>
                 <li class="list">Continent is on average:
                     <ul>
                         <li class="list-2">Second World</li>
