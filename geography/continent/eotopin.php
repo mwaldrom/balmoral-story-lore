@@ -18,7 +18,7 @@ $page_blerb = ""; //from
     <article class="row">
         <section class="col s12 l8">
             <figure>
-                <img class="responsive-img" src="/img/EotopinMap-PhysicalTopographic.svg">
+                <img class="responsive-img" src="/img/svg/Eotopin-Vector-Map.svg">
                 <figcaption>This file is license off Adobe Stock's</figcaption>
             </figure>
         </section>

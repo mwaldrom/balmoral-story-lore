@@ -15,10 +15,18 @@ $page_blerb = ""; //from
     <?php include '../header.php';?>
 </header>
 <main class="container">
+<ul class="pagination center-align">
+                <li class="waves-effect"><a href="our-world.php"><i class="material-icons">chevron_left</i></a></li>
+                <li class="waves-effect"><a href="our-world.php">Basic's</a></li>
+                <li class="active"><a href="our-world-2.php">Tectolic Plates</a></li>
+                <li class="disabled"><a href="#!">Weather</a></li>
+                <li class="disabled"><a href="#!">Plants & Animals</a></li>
+                <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+        </ul>
     <article class="row">
         <section class="col s12 l8">
             <figure>
-                <img class="responsive-img" src="/img/tectonic.jpeg">
+                <img class="responsive-img" src="/img/svg/World-Plate-Map.svg">
                 <figcaption></figcaption>
             </figure>
         </section>
@@ -48,7 +56,7 @@ $page_blerb = ""; //from
     <article class="row">
         <section class="col s12 l8">
             <figure>
-                <img class="responsive-img" src="/img/earth-structure.svg">
+                <img class="responsive-img" src="/img/svg/Earth-Vector-Structure.svg">
                 <figcaption></figcaption>
             </figure>
         </section>

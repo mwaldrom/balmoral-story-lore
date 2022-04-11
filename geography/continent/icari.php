@@ -18,7 +18,7 @@ $page_blerb = ""; //from
     <article class="row">
         <section class="col s12 l6">
             <figure>
-                <img class="responsive-img" src="/img/icari.png">
+                <img class="responsive-img" src="/img/svg/Icari-Vector-Map.svg">
                 <figcaption>This file is license off Adobe Stock's</figcaption>
             </figure>
         </section>

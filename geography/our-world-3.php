@@ -15,6 +15,14 @@ $page_blerb = ""; //from
     <?php include '../header.php';?>
 </header>
 <main class="container">
+<ul class="pagination center-align">
+                <li class="waves-effect"><a href="our-world.php"><i class="material-icons">chevron_left</i></a></li>
+                <li class="waves-effect"><a href="our-world.php">Basic's</a></li>
+                <li class="waves-effect"><a href="our-world-2.php">Tectolic Plates</a></li>
+                <li class="active"><a href="our-world-3.php">Weather</a></li>
+                <li class="waves-effect"><a href="#!">Plants & Animals</a></li>
+                <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+        </ul>
     <article class="row">
         <section class="col s12 l8">
             <figure>

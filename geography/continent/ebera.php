@@ -17,7 +17,7 @@ $page_blerb = ""; //from
 <article class="container row">
         <section class="col s12 l8">
             <figure>
-                <img class="responsive-img" src="/img/EberaMap-PhysicalTopographic.svg">
+                <img class="responsive-img" src="/img/svg/Ebera-Vector-Map.svg">
                 <figcaption>This file is license off Adobe Stock's</figcaption>
             </figure>
         </section>
